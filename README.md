@@ -17,8 +17,7 @@ A simple and user-friendly password manager built with Python and Tkinter. This 
 
 ## 📸 GUI Preview
 
-![image](https://github.com/user-attachments/assets/894049a6-754b-47c5-8f28-a7ec49dc84b1)
-
+![image](https://github.com/user-attachments/assets/47e1ae8d-0b0b-44e1-8875-f46347d6cd2b)
 
 ---
 
